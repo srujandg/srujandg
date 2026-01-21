@@ -1,4 +1,9 @@
+
 ## Hi I'm Srujan 👋
+ Day 1 – Started my daily GitHub contribution journey
+ Day 02 – Edited my GitHub profile README and Practiced formatting in README
+
+
 
 <!--
 **srujandg/srujandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
