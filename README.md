@@ -1,7 +1,7 @@
-Day 03-  Created new repository{code_practice} and Understand basic code of Java
+Day 02-  Created new repository{code_practice} and Understand basic code of Java
 ## Hi I'm Srujan 👋
  Day 1 – Started my daily GitHub contribution journey
- Day 02 – Edited my GitHub profile README and Practiced formatting in README
+ Day 01 – Edited my GitHub profile README and Practiced formatting in README
 
 
 
