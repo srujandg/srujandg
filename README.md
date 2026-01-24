@@ -1,7 +1,10 @@
-Day 02– Practiced GitHub commits and profile updates.
+
 ## Hi I'm Srujan 👋
  Day 1 – Started my daily GitHub contribution journey
  Day 01 – Edited my GitHub profile README and Practiced formatting in README
+ Day 02– Practiced GitHub commits and profile updates.
+ Day 03- learnt basic program in java and learnt operator using int datatype.
+ 
 
 
 
