@@ -1,3 +1,13 @@
+# Code Practice (Java)
+This repository contains my daily Java practice programs.
+I am learning Java step by step and committing my progress daily.
+## Programs
+- HelloWorld.java – First Java program (printing output)
+- Variables.java – Program to understand variables and addition
+## Learning Goal
+- Build strong Java basics
+- Practice GitHub daily
+- Prepare for projects and interviews
 
 ## Hi I'm Srujan 👋
  Day 1 – Started my daily GitHub contribution journey
