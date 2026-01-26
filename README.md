@@ -14,6 +14,7 @@ I am learning Java step by step and committing my progress daily.
  Day 01 – Edited my GitHub profile README and Practiced formatting in README
  Day 02– Practiced GitHub commits and profile updates.
  Day 03- learnt basic program in java and learnt operator using int datatype.
+ Day 04- learnt user input(using scanner function) and basic of airthmetic operator using in java.
  
 
 
