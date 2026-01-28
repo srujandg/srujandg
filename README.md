@@ -1,21 +1,30 @@
 # Code Practice (Java)
-This repository contains my daily Java practice programs.
-I am learning Java step by step and committing my progress daily.
-## Programs
-- HelloWorld.java – First Java program (printing output)
-- Variables.java – Program to understand variables and addition
-## Learning Goal
-- Build strong Java basics
-- Practice GitHub daily
-- Prepare for projects and interviews
 
-## Hi I'm Srujan 👋
- Day 1 – Started my daily GitHub contribution journey
- Day 01 – Edited my GitHub profile README and Practiced formatting in README
- Day 02– Practiced GitHub commits and profile updates.
- Day 03- learnt basic program in java and learnt operator using int datatype.
- Day 04- learnt user input(using scanner function) and basic of airthmetic operator using in java.
- 
+This repository contains my daily Java practice programs.  
+I am learning Java step by step and committing my progress daily.
+
+## Programs
+
+- HelloWorld.java – First Java program (printing output)  
+- Variables.java – Program to understand variables and addition  
+- Calculator.java – Simple calculator using if-else conditions  
+- CalculatorLoop.java – Menu-driven calculator using while loop with input validation  
+
+## Learning Goals
+
+- Build strong Java basics  
+- Practice GitHub daily  
+- Prepare for projects and interviews  
+
+## Hi, I'm Srujan 👋
+
+## Daily Learning Log
+
+- **Day 01:** Started my daily GitHub contribution journey. Edited my GitHub profile README and practiced formatting in README.  
+- **Day 02:** Practiced GitHub commits and profile updates.  
+- **Day 03:** Learned basic Java program structure and operators using "int" datatype.  
+- **Day 04:** Learned user input using "Scanner" and basic arithmetic operations in Java.  
+- **Day 05:** Built a menu-driven calculator using "While" loop with input validation and exit option.
 
 
 
