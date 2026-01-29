@@ -25,6 +25,8 @@ I am learning Java step by step and committing my progress daily.
 - **Day 03:** Learned basic Java program structure and operators using "int" datatype.  
 - **Day 04:** Learned user input using "Scanner" and basic arithmetic operations in Java.  
 - **Day 05:** Built a menu-driven calculator using "While" loop with input validation and exit option.
+- **Day 06:** Solved first Codeforces problem (4A – Watermelon) using Java and learned submission process.
+
 
 
 
