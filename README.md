@@ -27,6 +27,7 @@ I am learning Java step by step and committing my progress daily.
 - **Day 05:** Built a menu-driven calculator using "While" loop with input validation and exit option.
 - **Day 06:** Solved first Codeforces problem (4A – Watermelon) using Java and learned submission process.
 - **Day 07:** Solved Codeforces problem (160A – Twins). Understood greedy logic by sorting values and selecting the minimum number of elements such that their sum becomes greater than the remaining sum. Practiced problem-solving using Java and improved confidence with conditional logic and arrays.
+- **Day 08:** Practiced Java conditional statements (largest number, leap year) and pushed solutions from GeeksforGeeks.
 
 
 
