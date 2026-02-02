@@ -29,6 +29,8 @@ I am learning Java step by step and committing my progress daily.
 - **Day 07:** Solved Codeforces problem (160A – Twins). Understood greedy logic by sorting values and selecting the minimum number of elements such that their sum becomes greater than the remaining sum. Practiced problem-solving using Java and improved confidence with conditional logic and arrays.
 - **Day 08:** Practiced Java conditional statements (largest number, leap year) and pushed solutions from GeeksforGeeks. Also solved 71A in Codeforces.
 - **Day 09:** Practiced `for` loop, `break`, and `continue`; solved related problems on GeeksforGeeks and Codeforces (231A – Team).
+- **Day 10:** Learned nested loops, printed right-angled patterns, and solved Codeforces 271A – Beautiful Year.
+
 
 
 
