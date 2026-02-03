@@ -30,6 +30,8 @@ I am learning Java step by step and committing my progress daily.
 - **Day 08:** Practiced Java conditional statements (largest number, leap year) and pushed solutions from GeeksforGeeks. Also solved 71A in Codeforces.
 - **Day 09:** Practiced `for` loop, `break`, and `continue`; solved related problems on GeeksforGeeks and Codeforces (231A – Team).
 - **Day 10:** Learned nested loops, printed right-angled patterns, and solved Codeforces 271A – Beautiful Year.
+- **Day 11:** Solved Codeforces Next Round problem and practiced Java patterns.
+
 
 
 
