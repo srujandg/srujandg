@@ -1,55 +1,96 @@
-# Code Practice (Java)
+# Hi I'm Srujan👋
 
-This repository contains my daily Java practice programs.  
-I am learning Java step by step and committing my progress daily.
+### Full Stack Developer | MERN Stack | Java DSA
 
-## Programs
+🚀 Building scalable web applications
+🧠 Strong focus on Data Structures & Problem Solving
+🎯 Target: Product-Based Software Engineering Roles
 
-- HelloWorld.java – First Java program (printing output)  
-- Variables.java – Program to understand variables and addition  
-- Calculator.java – Simple calculator using if-else conditions  
-- CalculatorLoop.java – Menu-driven calculator using while loop with input validation  
+---
 
-## Learning Goals
+## 👨‍💻 About Me
 
-- Build strong Java basics  
-- Practice GitHub daily  
-- Prepare for projects and interviews  
+I am a dedicated full stack developer currently specializing in the **MERN stack** while strengthening my foundation in **Data Structures and Algorithms using Java**.
 
-## Hi, I'm Srujan 👋
+I focus on:
 
-## Daily Learning Log
+* Writing clean, maintainable code
+* Building real-world full stack applications
+* Continuously improving problem-solving ability
+* Preparing for high-impact product engineering roles
 
-- **Day 01:** Started my daily GitHub contribution journey. Edited my GitHub profile README and practiced formatting in README.  
-- **Day 02:** Practiced GitHub commits and profile updates.  
-- **Day 03:** Learned basic Java program structure and operators using `int` datatype.  
-- **Day 04:** Learned user input using `Scanner` and basic arithmetic operations in Java.  
-- **Day 05:** Built a menu-driven calculator using `While` loop with input validation and exit option.
-- **Day 06:** Solved first Codeforces problem (4A – Watermelon) using Java and learned submission process.
-- **Day 07:** Solved Codeforces problem (160A – Twins). Understood greedy logic by sorting values and selecting the minimum number of elements such that their sum becomes greater than the remaining sum. Practiced problem-solving using Java and improved confidence with conditional logic and arrays.
-- **Day 08:** Practiced Java conditional statements (largest number, leap year) and pushed solutions from GeeksforGeeks. Also solved 71A in Codeforces.
-- **Day 09:** Practiced `for` loop, `break`, and `continue`; solved related problems on GeeksforGeeks and Codeforces (231A – Team).
-- **Day 10:** Learned nested loops, printed right-angled patterns, and solved Codeforces 271A – Beautiful Year.
-- **Day 11:** Solved Codeforces 158A (Next Round) and practiced Java star patterns.
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
+Java • JavaScript • HTML • CSS
 
+### ⚛️ Frontend Development
 
+React.js • Tailwind CSS • Bootstrap
 
+### 🔧 Backend Development
 
+Node.js • Express.js
 
-<!--
-**srujandg/srujandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🗄️ Database
 
-Here are some ideas to get you started:
+MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tools & Platforms
+
+Git • GitHub • VS Code • Postman • Codeforces • GeeksforGeeks
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 MERN Task Manager
+
+A full stack productivity application built with React, Node.js, Express, and MongoDB.
+
+**Key Features:**
+
+* RESTful API integration
+* CRUD operations
+* Responsive UI
+* Clean architecture structure
+
+---
+
+### 🔹 Full Stack Expense Tracker *(Planned Upgrade Project)*
+
+* Authentication system
+* Secure MongoDB storage
+* Dashboard with data visualization
+* Scalable backend structure
+
+---
+
+### 🔹 Java DSA Repository
+
+* 150+ practice problems
+* Core topics: Arrays, Strings, Recursion, Sorting, Searching
+* Focused on interview-level problem solving
+
+---
+
+## 📈 Current Focus
+
+* Advanced MERN stack development
+* Solving 300+ DSA problems
+* Building production-ready applications
+* Preparing for product-based company interviews
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [srujansanju870@gmail.com](mailto:srujansanju870@gmail.com)
+📍 Hassan, India
+
+---
+
+⭐ *“Strong fundamentals. Consistent execution. Long-term growth.”*
